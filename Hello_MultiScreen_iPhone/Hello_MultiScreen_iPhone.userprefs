@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello_MultiScreen_iPhone/Screens/HomeScreen.designer.cs">
+    <Files>
+      <File FileName="../../../../../[Projects]/[Ravid]/Dev/Ravid/Ravid.Common/BL/Entities/Message.cs" Line="14" Column="41" />
+      <File FileName="Hello_MultiScreen_iPhone/AppDelegate.cs" Line="24" Column="4" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreenController.cs" Line="7" Column="35" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreenController.cs" Line="7" Column="35" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreenController.cs" Line="7" Column="35" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.designer.cs" Line="9" Column="35" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.designer.cs" Line="9" Column="35" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.designer.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Hello_MultiScreen_iPhone" expanded="True" selected="True">
+            <Node name="Images" expanded="True" />
+            <Node name="Screens" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
